@@ -4,6 +4,8 @@ We are going to work in teams of two. Setup a repository on GitHub. You can choo
   
 Additionally, set up a project with tickets detailing the work to be done, and also make sure that I am a member of the project.  
   
+We are going to use [Firebase](https://firebase.google.com/) for the database. Here's a [tutorial](https://firebase.google.com/codelabs/firebase-web#0). 
+  
 ## Rules
 
 The project details are described in the [Project Description PDF](https://learn.greystonecollege.com/pluginfile.php/100892/mod_resource/content/2/Angular%20to%20Database%20Client%20Side%20Project.pdf).  
