@@ -14,5 +14,5 @@ Each day (Tue, Wed, Thu), should record a team daily standup. This can be a very
   
 ## Important Dates. 
   
-  - April 3rd (12:00pm - noon): Status Submissions - you should upload a zipfile with your current code as a submission to the assignment "Client Side Project - Status Submission 1".
-  - April 10th (12:00pm - noon): Status Submissions - you should upload a zipfile with your final code for the "Submit Project" assignment, and a (up to 5 minute) video with a code walkthrough explaining the parts of the project that you worked on.  
+  - April 3rd (12:00pm - noon): Status Submission - you should upload a zipfile with your current code as a submission to the assignment "Client Side Project - Status Submission 1".
+  - April 10th (12:00pm - noon): Final Submission - you should upload a zipfile with your final code for the "Submit Project" assignment, and a (up to 5 minute) video with a code walkthrough explaining the parts of the project that you worked on for the Project Presentation.
