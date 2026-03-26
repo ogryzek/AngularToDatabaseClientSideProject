@@ -4,7 +4,7 @@ We are going to work in teams of two. Setup a repository on GitHub. You can choo
   
 Additionally, set up a project with tickets detailing the work to be done, and also make sure that I am a member of the project.  
   
-We are going to use [Firebase](https://firebase.google.com/) for the database. Here's a [tutorial](https://firebase.google.com/codelabs/firebase-web#0). 
+We are going to use [Firebase](https://firebase.google.com/) for the database. Here's a [tutorial](https://developers.google.com/codelabs/building-a-web-app-with-angular-and-firebase#0). 
   
 ## Rules
 
@@ -18,3 +18,5 @@ Each day (Tue, Wed, Thu), should record a team daily standup. This can be a very
   
   - April 3rd (12:00pm - noon): Status Submission - you should upload a zipfile with your current code as a submission to the assignment "Client Side Project - Status Submission 1".
   - April 10th (12:00pm - noon): Final Submission - you should upload a zipfile with your final code for the "Submit Project" assignment, and a (up to 5 minute) video with a code walkthrough explaining the parts of the project that you worked on for the Project Presentation.
+
+  
